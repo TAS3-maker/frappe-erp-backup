@@ -1,0 +1,7 @@
+2025-04-21 07:52:57,586 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for modernbrand
+2025-04-21 07:52:57,648 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for modernbrand
+2025-04-21 07:52:57,841 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for modernbrand
+2025-04-21 07:52:57,913 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for modernbrand
+2025-04-21 07:52:58,121 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for modernbrand
+2025-04-21 07:52:58,186 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for modernbrand
+2025-04-21 07:52:58,351 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for modernbrand

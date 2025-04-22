@@ -1,0 +1,139 @@
+Please specify --site sitename
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250416_130001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-16 13:00:02.123193
+Config  : ./modernbrand/private/backups/20250416_130001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250416_130001-modernbrand-database.sql.gz         249.2KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250416_190001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-16 19:00:02.416233
+Config  : ./modernbrand/private/backups/20250416_190001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250416_190001-modernbrand-database.sql.gz         249.2KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250417_010002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-17 01:00:02.703000
+Config  : ./modernbrand/private/backups/20250417_010002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250417_010002-modernbrand-database.sql.gz         251.9KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250417_070001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-17 07:00:02.012852
+Config  : ./modernbrand/private/backups/20250417_070001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250417_070001-modernbrand-database.sql.gz         255.7KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250417_130001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-17 13:00:02.315172
+Config  : ./modernbrand/private/backups/20250417_130001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250417_130001-modernbrand-database.sql.gz         260.8KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250417_190002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-17 19:00:02.672797
+Config  : ./modernbrand/private/backups/20250417_190002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250417_190002-modernbrand-database.sql.gz         263.6KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250418_010001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-18 01:00:01.966498
+Config  : ./modernbrand/private/backups/20250418_010001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250418_010001-modernbrand-database.sql.gz         267.1KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250418_070001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-18 07:00:02.283473
+Config  : ./modernbrand/private/backups/20250418_070001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250418_070001-modernbrand-database.sql.gz         270.8KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250418_130002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-18 13:00:02.572722
+Config  : ./modernbrand/private/backups/20250418_130002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250418_130002-modernbrand-database.sql.gz         274.2KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250418_190002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-18 19:00:02.882867
+Config  : ./modernbrand/private/backups/20250418_190002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250418_190002-modernbrand-database.sql.gz         277.3KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250419_010001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-19 01:00:02.191574
+Config  : ./modernbrand/private/backups/20250419_010001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250419_010001-modernbrand-database.sql.gz         280.5KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250419_070002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-19 07:00:02.502468
+Config  : ./modernbrand/private/backups/20250419_070002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250419_070002-modernbrand-database.sql.gz         283.8KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250419_130002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-19 13:00:02.813751
+Config  : ./modernbrand/private/backups/20250419_130002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250419_130002-modernbrand-database.sql.gz         286.7KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250419_190001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-19 19:00:02.169938
+Config  : ./modernbrand/private/backups/20250419_190001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250419_190001-modernbrand-database.sql.gz         289.9KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250420_010002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-20 01:00:02.513663
+Config  : ./modernbrand/private/backups/20250420_010002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250420_010002-modernbrand-database.sql.gz         293.8KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250420_070002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-20 07:00:02.869977
+Config  : ./modernbrand/private/backups/20250420_070002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250420_070002-modernbrand-database.sql.gz         296.6KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250420_130001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-20 13:00:02.183839
+Config  : ./modernbrand/private/backups/20250420_130001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250420_130001-modernbrand-database.sql.gz         301.7KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250420_190002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-20 19:00:02.501087
+Config  : ./modernbrand/private/backups/20250420_190002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250420_190002-modernbrand-database.sql.gz         304.9KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250421_010002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-21 01:00:02.802141
+Config  : ./modernbrand/private/backups/20250421_010002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250421_010002-modernbrand-database.sql.gz         308.2KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250421_070001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-21 07:00:02.105382
+Config  : ./modernbrand/private/backups/20250421_070001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250421_070001-modernbrand-database.sql.gz         311.4KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250421_130001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-21 13:00:02.423012
+Config  : ./modernbrand/private/backups/20250421_130001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250421_130001-modernbrand-database.sql.gz         314.7KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250421_190002-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-21 19:00:02.746588
+Config  : ./modernbrand/private/backups/20250421_190002-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250421_190002-modernbrand-database.sql.gz         317.5KiB
+Backup for Site modernbrand has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _b70e2a406ced1d0a -p********** _b70e2a406ced1d0a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./modernbrand/private/backups/20250422_010001-modernbrand-database.sql.gz
+
+Backup Summary for modernbrand at 2025-04-22 01:00:02.046506
+Config  : ./modernbrand/private/backups/20250422_010001-modernbrand-site_config_backup.json 115.0B
+Database: ./modernbrand/private/backups/20250422_010001-modernbrand-database.sql.gz         321.6KiB
+Backup for Site modernbrand has been successfully completed

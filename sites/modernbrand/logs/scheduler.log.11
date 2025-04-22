@@ -1,0 +1,4 @@
+2025-04-21 14:08:44,873 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for modernbrand
+2025-04-21 14:08:45,081 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for modernbrand
+2025-04-21 14:08:45,146 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for modernbrand
+2025-04-21 14:08:45,311 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for modernbrand
